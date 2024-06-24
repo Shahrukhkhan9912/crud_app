@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Ayaj Khan",
+      "user_name": "ayaj9912",
+      "age": 61,
+      "phone": 1236547896
+    },
+    {
+      "id": "2",
+      "name": "Aamna Bee",
+      "user_name": "Aamna9912",
+      "age": 55,
+      "phone": 1236547896
+    },
+    {
+      "id": "3",
+      "name": "Irfan Khan",
+      "user_name": "shahrukh9912",
+      "age": 36,
+      "phone": 1236547896
+    },
+    {
+      "id": "4",
+      "name": "Rani Khan",
+      "user_name": "shahrukh9912",
+      "age": 26,
+      "phone": 1236547896
+    },
+    {
+      "id": "5",
+      "name": "Shahrukh Khan",
+      "user_name": "shahrukh9912",
+      "age": 30,
+      "phone": 1236547896
+    },
+    {
+      "id": "6",
+      "name": "Anjum Khan",
+      "user_name": "shahrukh9912",
+      "age": 27,
+      "phone": 1236547896
+    },
+    {
+      "id": "7",
+      "name": "Iqra Khan",
+      "user_name": "iqra9912",
+      "age": 8,
+      "phone": 1236547896
+    },
+    {
+      "id": "76d3",
+      "name": "Mazhar",
+      "username": "mazhar_1983",
+      "age": "40",
+      "phone": "823657894"
+    },
+    {
+      "id": "4a99",
+      "name": "Srk Khan pathan",
+      "user_name": "Srk99123",
+      "age": 29,
+      "phone": 97236547894
+    },
+    {
+      "id": "681c",
+      "name": "Mohammad Ali Khan",
+      "username": "Ali2019",
+      "age": "5",
+      "phone": "9876543215"
+    },
+    {
+      "id": "82ca",
+      "name": "Mohammad Ali Khan",
+      "username": "Ali2019",
+      "age": "5",
+      "phone": "9876543215"
+    },
+    {
+      "id": "2505",
+      "name": "Srk",
+      "username": "Srk_23193",
+      "age": "30",
+      "phone": "9874563215"
+    },
+    {
+      "id": "2f21",
+      "name": "King",
+      "user_name": "King1993Khan",
+      "age": "30",
+      "phone": "9871236548"
+    }
+  ]
+}
